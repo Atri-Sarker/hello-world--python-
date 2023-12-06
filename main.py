@@ -1,3 +1,2 @@
-showString = basic.show_string
 
-showString("Hello, Atri!")
+basic.show_string("Hello, Atri!")

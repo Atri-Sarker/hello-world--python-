@@ -1,2 +1,1 @@
-let showString = basic.showString
-basic.showString("Hello!")
+basic.showString("Hello, Atri!")
